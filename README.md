@@ -6,7 +6,8 @@
 </h1>
 
 <h4 align="center">
-  Frontend web da aplicação GoBarber, um gerenciador de agendamentos para barbearias, desenvolvido com React.
+  Frontend web da aplicação GoBarber, um gerenciador de atendimentos para barbearias, desenvolvido com React.
+</h4>
 <div align="center" >
   <img alt="Project demo" src="./github/go-barber-web.gif" width='600px' style="margin-right:10px">
 
