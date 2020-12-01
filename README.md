@@ -6,8 +6,7 @@
 </h1>
 
 <h4 align="center">
-  Descubra o seu índice de massa corpórea e veja como anda seu peso!
-</h4>
+  Frontend web da aplicação GoBarber, um gerenciador de agendamentos para barbearias, desenvolvido com React.
 <div align="center" >
   <img alt="Project demo" src="./github/go-barber-web.gif" width='600px' style="margin-right:10px">
 
